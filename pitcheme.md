@@ -7,7 +7,3 @@ Hola!
 ---
 
 Goodbye!
-
-+++
-
-Adi?s!
