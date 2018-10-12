@@ -1,9 +1,5 @@
 Hello!
 
-+++
-
-Hola!
-
 ---
 
 Goodbye!
